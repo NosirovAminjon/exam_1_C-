@@ -1,4 +1,4 @@
-﻿// // task 1
+﻿// task 1
 
 // int n = int.Parse(Console.ReadLine());
 
@@ -21,9 +21,6 @@
 
 // task 2
 
-// {
-//     static void Main()
-//     {
 //    int n = int.Parse(Console.ReadLine
 //    int[] arr = Array.ConvertAll(
 //        Console.ReadLine().Split(),
