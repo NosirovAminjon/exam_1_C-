@@ -1,0 +1,14 @@
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.AssemblyInfoInputs.cache
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.AssemblyInfo.cs
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.csproj.CoreCompileInputs.cache
+C:\Users\2025\Desktop\exam1 C#\bin\Debug\net10.0\exam1 C#.exe
+C:\Users\2025\Desktop\exam1 C#\bin\Debug\net10.0\exam1 C#.deps.json
+C:\Users\2025\Desktop\exam1 C#\bin\Debug\net10.0\exam1 C#.runtimeconfig.json
+C:\Users\2025\Desktop\exam1 C#\bin\Debug\net10.0\exam1 C#.dll
+C:\Users\2025\Desktop\exam1 C#\bin\Debug\net10.0\exam1 C#.pdb
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.dll
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\refint\exam1 C#.dll
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.pdb
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\exam1 C#.genruntimeconfig.cache
+C:\Users\2025\Desktop\exam1 C#\obj\Debug\net10.0\ref\exam1 C#.dll
